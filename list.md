@@ -5,3 +5,4 @@
 - Apples
 - Oranges
 - Strawberries
+- Pineapples
