@@ -3,3 +3,5 @@
 - Mangoes
 - Watermelons
 - Apples
+- Oranges
+- Strawberries
